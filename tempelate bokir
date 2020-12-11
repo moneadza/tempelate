@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>LIVE SEX CAM</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+
+    .carousel-inner img {
+      width: 100%; /* Set width to 100% */
+      min-height: 200px;
+    }
+
+    /* Hide the carousel text when the screen is less than 600 pixels wide */
+    @media (max-width: 600px) {
+      .carousel-caption {
+        display: none; 
+      }
+    }
+  </style>
+<style>
+body {
+  background-color: pink;
+}
+</style>
+</head>
+<body>
+
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Logo</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="container">
+<div class="row">
+  <div class="col-sm-8">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <a href="http://lovepeed.ml/ozawa">
+          <img src="https://1.bp.blogspot.com/-ANxS5C0K_jc/X9Mx_Sb9BSI/AAAAAAAAKEo/Ro-t7KtCEqg-hUMPmElQ6g7pznQWMFy6wCLcBGAsYHQ/s1080/asia%2B%25288%2529.jpg?text=IMAGE" alt="Image">
+          <div class="carousel-caption">
+            <h3>Linda</h3>
+            <p>Live Now</p>
+            </a>
+          </div>      
+        </div>
+
+        <div class="item">
+          <a href="http://lovepeed.ml/ozawa">
+          <img src="https://1.bp.blogspot.com/-pdS3DDzfTHc/X9NE66nFH_I/AAAAAAAAKFU/NqKHKfsG-ssDPOyoYDnyTmZfkeKR-ZPIwCLcBGAsYHQ/s1080/asia%2B%252843%2529.jpg?text=Another Image Maybe" alt="Image">
+          <div class="carousel-caption">
+            <h3>Keisha</h3>
+            <p>Live Now</p>
+            </a>
+          </div>      
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="well">
+      <p>Some text..</p>
+    </div>
+    <div class="well">
+       <p>Upcoming Events..</p>
+    </div>
+    <div class="well">
+       <p>Visit Our Blog</p>
+    </div>
+  </div>
+</div>
+<hr>
+</div>
+
+<div class="container text-center">    
+  <h3>What We Do</h3>
+  <br>
+  <div class="row">
+    <div class="col-sm-3">
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-Nt8fBBAEUyA/X9NFMRLsMkI/AAAAAAAAKFc/wlX7GMW7fvIaAirlc5nuZnnt6HHa3nFTACLcBGAsYHQ/s1349/asia%2B%252818%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Jessie</p>
+      </a>
+    </div>
+    <div class="col-sm-3"> 
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-8Jg1WC2BSkQ/X9Mx7EF2oSI/AAAAAAAAKD8/fWrXOIfRRfIucePEi8hRUPfw-alKEzFNQCLcBGAsYHQ/s1348/asia%2B%252810%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Marrie</p>
+      </a>   
+    </div>
+    <div class="col-sm-3">
+      <div class="well">
+       <p>Some text..</p>
+      </div>
+      <div class="well">
+       <p>Some text..</p>
+      </div>
+    </div>
+    <div class="col-sm-3">
+      <div class="well">
+       <p>Some text..</p>
+      </div>
+      <div class="well">
+       <p>Some text..</p>
+      </div>
+    </div>  
+  </div>
+  <hr>
+</div>
+
+<div class="container text-center">    
+  <h3>Our Partners</h3>
+  <br>
+  <div class="row">
+    <div class="col-sm-2">
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-dZ6vBhyRE8s/X9Mx8RswK-I/AAAAAAAAKEI/vEPvUEIsBQAA17HqMnUiYhRbqAMyJjJDwCLcBGAsYHQ/s1311/asia%2B%25282%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Megan</p>
+      </a>
+    </div>
+    <div class="col-sm-2"> 
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-ZjF0futYUg8/X9Mx8We9eFI/AAAAAAAAKEQ/TgpCSsltFmcwcmLht2JnH_Gws2ns0d8pwCLcBGAsYHQ/s500/asia%2B%25283%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Claura</p>  
+      </a>  
+    </div>
+    <div class="col-sm-2"> 
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-Wrz1jhLRG88/X9Mx-bdHdbI/AAAAAAAAKEY/UUnda1ncUIE7ng6uhjeW9qJAg2XyVES3wCLcBGAsYHQ/s1349/asia%2B%25285%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Liona</p>
+      </a>
+    </div>
+    <div class="col-sm-2">
+    <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-ymI6s2UCx7I/X9Mx-l7wP7I/AAAAAAAAKEc/0QksxRpKvw8Esmia3grvIqowLASyCxqdQCLcBGAsYHQ/s1350/asia%2B%25286%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Peggie</p>
+      </a> 
+    </div> 
+    <div class="col-sm-2"> 
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-Bk_1_C2dz0k/X9Mx7fYLSJI/AAAAAAAAKEA/uSK-Ab0TuvMHLQ2Qi0AJqh0nb2AbtYdZgCLcBGAsYHQ/s1350/asia%2B%252811%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Jeniffer</p>
+      </a>
+    </div>     
+    <div class="col-sm-2"> 
+      <a href="http://lovepeed.ml/ozawa">
+      <img src="https://1.bp.blogspot.com/-c6odj0yiYRQ/X9Mx-5f7yhI/AAAAAAAAKEg/3DQ1gxH5Uys9RuDza8-z-gdsZDqFcA_zwCLcBGAsYHQ/s1350/asia%2B%25287%2529.jpg?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+      <p>Kellie</p>
+      </a>
+    </div> 
+  </div>
+</div><br>
+
+<footer class="container-fluid text-center">
+  <p>Footer Text</p>
+</footer>
+
+</body>
+</html>
